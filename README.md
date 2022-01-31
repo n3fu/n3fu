@@ -1,9 +1,4 @@
-<a href="https://discord.com/users/768892215622631435" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/n3fu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  
-
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/377135247004794880)](https://discord.com/users/768892215622631435)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/768892215622631435)
 
 
 ## Langauges I Know:
