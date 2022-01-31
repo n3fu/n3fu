@@ -1,4 +1,5 @@
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/768892215622631435
+                            )](https://discord.com/users/768892215622631435)
 
 
 ## Langauges I Know:
